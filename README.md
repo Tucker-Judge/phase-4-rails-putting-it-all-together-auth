@@ -1,4 +1,4 @@
-# Putting it All Together: Auth
+`# Putting it All Together: Auth
 
 ## Learning Goals
 
